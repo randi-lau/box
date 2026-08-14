@@ -1,0 +1,38 @@
+name: 每日更新人民日报新闻
+
+# 每天（北京时间约 06:17）自动从人民网抓取最新新闻，生成 content-girl.json / content-boy.json 并提交，
+# 由 GitHub Pages 对外提供，学习台 App 启动时拉取即实现“新闻每天自动更新”。
+on:
+  schedule:
+    - cron: '17 22 * * *'      # UTC 22:17 ≈ 北京时间 06:17
+  workflow_dispatch:           # 也可在 Actions 页面手动点“Run workflow”立即触发
+
+permissions:
+  contents: write              # 允许提交更新后的 JSON
+
+jobs:
+  update-news:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 检出仓库
+        uses: actions/checkout@v4
+
+      - name: 设置 Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: 抓取人民日报最新新闻
+        run: python apk/fetch_people_news.py --out-dir .
+
+      - name: 提交更新（仅在内容变化时）
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add content-girl.json content-boy.json
+          if git diff --cached --quiet; then
+            echo "新闻无变化，跳过提交"
+          else
+            git commit -m "自动更新人民日报新闻 $(date +'%Y-%m-%d')"
+            git push
+          fi
