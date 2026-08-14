@@ -4821,7 +4821,7 @@ function renderKnowledge(){ renderInfoBoard('knowledge'); }
 // 原生 Android 层负责联网下载，再调用 window.__applyRemoteContent(json) 合并并刷新界面。
 // 网页自身也会尝试用 CONTENT_URL 拉取（需服务器允许跨域 Access-Control-Allow-Origin:*），作为免编程打包的备选。
 let REMOTE = null;
-const CONTENT_URL = 'https://example.com/study/content-boy.json';
+const CONTENT_URL = 'https://cdn.jsdelivr.net/gh/randi-lau/box@main/content-boy.json';
 function escHtml(s){ return String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;'); }
 function _sanitizeNode(v){
   if(typeof v==='string') return escHtml(v);
