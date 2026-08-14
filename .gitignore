@@ -1,0 +1,10 @@
+# 构建/IDE 产物
+.idea/
+__pycache__/
+*.pyc
+app_package/
+icons/
+*.zip
+
+# 项目本地记忆（不进入内容仓库）
+.workbuddy/
