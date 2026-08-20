@@ -7,7 +7,7 @@
 #   python apk/set_content_url.py https://cdn.jsdelivr.net/gh/alice/study-apps@main
 #   python apk/set_content_url.py https://my-bucket.oss-cn-beijing.aliyuncs.com/study
 #
-# 作用：把内容 JSON 的真实网址一次性写进 6 个 HTML 的 CONTENT_URL 和 2 个安卓 strings.xml 的 content_url。
+# 作用：把内容 JSON 的真实网址（合并后统一为 content.json，manifest 或单文件均可）一次性写进 6 个 HTML 的 CONTENT_URL 和 2 个安卓 strings.xml 的 content_url。
 import sys, io, os, re
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))  # 仓库根目录
@@ -30,8 +30,7 @@ def main():
         print(__doc__)
         sys.exit(1)
     base = build_base(sys.argv[1]).rstrip('/')
-    girl = base + '/content-girl.json'
-    boy = base + '/content-boy.json'
+    url = base + '/content.json'   # 合并为单一中性应用后，所有平台共用同一份内容（manifest 或单文件）
 
     html_files = [
         os.path.join(ROOT, 'study_workspace_g6.html'),
@@ -40,19 +39,20 @@ def main():
         os.path.join(ROOT, 'apk', 'boy', 'index.html'),
         os.path.join(ROOT, 'apk', 'android-girl', 'app', 'src', 'main', 'assets', 'index.html'),
         os.path.join(ROOT, 'apk', 'android-boy', 'app', 'src', 'main', 'assets', 'index.html'),
+        os.path.join(ROOT, 'app_package', 'android', 'app', 'src', 'main', 'assets', 'index.html'),
+        os.path.join(ROOT, 'app_package', 'pwa', 'index.html'),
     ]
     hpat = re.compile(r"(const CONTENT_URL = ')[^']*(';)")
     for f in html_files:
         s = io.open(f, encoding='utf-8').read()
-        repl = girl if 'content-girl.json' in s else boy
-        new, n = hpat.subn(lambda m, r=repl: m.group(1) + r + m.group(2), s, count=1)
+        new, n = hpat.subn(lambda m, r=url: m.group(1) + r + m.group(2), s, count=1)
         assert n == 1, (f, n)
         io.open(f, 'w', encoding='utf-8').write(new)
-        print('updated HTML:', os.path.relpath(f, ROOT), '->', repl)
+        print('updated HTML:', os.path.relpath(f, ROOT), '->', url)
 
     xml_files = [
-        (os.path.join(ROOT, 'apk', 'android-girl', 'app', 'src', 'main', 'res', 'values', 'strings.xml'), girl),
-        (os.path.join(ROOT, 'apk', 'android-boy', 'app', 'src', 'main', 'res', 'values', 'strings.xml'), boy),
+        (os.path.join(ROOT, 'apk', 'android-girl', 'app', 'src', 'main', 'res', 'values', 'strings.xml'), url),
+        (os.path.join(ROOT, 'apk', 'android-boy', 'app', 'src', 'main', 'res', 'values', 'strings.xml'), url),
     ]
     xpat = re.compile(r'(<string name="content_url">)[^<]*(</string>)')
     for f, repl in xml_files:
