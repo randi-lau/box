@@ -1,0 +1,352 @@
+{
+  "questions": {
+    "语文": [
+      {
+        "id": "yp1",
+        "type": "choice",
+        "difficulty": "基础",
+        "knowledgePoint": "古诗理解",
+        "question": "“千磨万击还坚劲，任尔东西南北风”出自下列哪首诗？",
+        "options": [
+          "《竹石》",
+          "《石灰吟》",
+          "《墨梅》",
+          "《七步诗》"
+        ],
+        "answer": 0,
+        "hint": {
+          "approach": "这两句出自郑燮（郑板桥）的《竹石》，借竹子表达坚韧。",
+          "pitfall": "易与《石灰吟》（千锤万凿出深山）混淆，注意区分不同咏物诗。",
+          "extension": "小学常见咏物诗：竹石（坚韧）、石灰吟（清白）、墨梅（淡泊）。"
+        }
+      },
+      {
+        "id": "yp2",
+        "type": "choice",
+        "difficulty": "基础",
+        "knowledgePoint": "成语运用",
+        "question": "下列句子中成语使用正确的是？",
+        "options": [
+          "他做事精益求精，从不马虎",
+          "这篇作文语句不通，简直是不刊之论",
+          "他成绩一落千丈，令人刮目相看",
+          "操场上人山人海，美不胜收"
+        ],
+        "answer": 0,
+        "hint": {
+          "approach": "“精益求精”指好了还求更好，用在这里正确。",
+          "pitfall": "“不刊之论”指不可更改的正确言论，不能形容语句不通。",
+          "extension": "成语题常考望文生义，要记住真实含义再判断。"
+        }
+      },
+      {
+        "id": "yp3",
+        "type": "choice",
+        "difficulty": "基础",
+        "knowledgePoint": "古诗默写",
+        "question": "杜甫《春夜喜雨》中“随风潜入夜”的下一句是？",
+        "options": [
+          "润物细无声",
+          "当春乃发生",
+          "晓看红湿处",
+          "花重锦官城"
+        ],
+        "answer": 0,
+        "hint": {
+          "approach": "名句：好雨知时节，当春乃发生。随风潜入夜，润物细无声。",
+          "pitfall": "“润”不要写成“闰”。",
+          "extension": "默写先理解诗意再背诵。"
+        }
+      },
+      {
+        "id": "yp4",
+        "type": "choice",
+        "difficulty": "中等",
+        "knowledgePoint": "修辞手法",
+        "question": "“春天的脚步近了”使用的修辞手法是？",
+        "options": [
+          "比喻",
+          "拟人",
+          "夸张",
+          "排比"
+        ],
+        "answer": 1,
+        "hint": {
+          "approach": "把春天当人来写，说它“迈脚步”，是拟人。",
+          "pitfall": "拟人是赋予事物人的动作；比喻要有喻体和喻词。",
+          "extension": "区分比喻和拟人：拟人不出现喻体。"
+        }
+      },
+      {
+        "id": "yp5",
+        "type": "choice",
+        "difficulty": "基础",
+        "knowledgePoint": "标点符号",
+        "question": "下列句子标点使用正确的是？",
+        "options": [
+          "他说：“今天天气真好”！",
+          "他说：“今天天气真好！”",
+          "他说“今天天气真好！”",
+          "他说：今天天气真好！"
+        ],
+        "answer": 1,
+        "hint": {
+          "approach": "引语内的感叹号应在引号内。",
+          "pitfall": "句末点号在引文为完整句子时要放在引号内。",
+          "extension": "标点符号是基本功，多读规范例句。"
+        }
+      },
+      {
+        "id": "yp6",
+        "type": "choice",
+        "difficulty": "中等",
+        "knowledgePoint": "病句辨析",
+        "question": "下列句子没有语病的是？",
+        "options": [
+          "通过这次活动，使我明白了团结的重要",
+          "他基本上把不好的习惯完全改掉了",
+          "我们要认真克服并善于发现学习上的缺点",
+          "阅读能开阔我们的视野"
+        ],
+        "answer": 3,
+        "hint": {
+          "approach": "最后一句主谓宾完整、无矛盾。",
+          "pitfall": "“通过…使”缺主语；“基本”与“完全”矛盾；“克服并发现”语序不当。",
+          "extension": "病句常考成分残缺、搭配不当、矛盾、语序。"
+        }
+      }
+    ],
+    "数学": [
+      {
+        "id": "mp1",
+        "type": "choice",
+        "difficulty": "基础",
+        "knowledgePoint": "分数加减",
+        "question": "计算 1/2 + 1/3 = ？",
+        "options": [
+          "2/5",
+          "5/6",
+          "1/6",
+          "3/5"
+        ],
+        "answer": 1,
+        "hint": {
+          "approach": "通分：1/2=3/6，1/3=2/6，相加得5/6。",
+          "pitfall": "分数相加不能把分子分母分别相加，必须先通分。",
+          "extension": "异分母分数加减：先通分再加减。"
+        }
+      },
+      {
+        "id": "mp2",
+        "type": "choice",
+        "difficulty": "基础",
+        "knowledgePoint": "百分数",
+        "question": "一件商品原价100元，打八折后的售价是？",
+        "options": [
+          "80元",
+          "20元",
+          "92元",
+          "88元"
+        ],
+        "answer": 0,
+        "hint": {
+          "approach": "打八折=原价×80%：100×80%=80元。",
+          "pitfall": "“打八折”是乘80%，不是减去80%！",
+          "extension": "现价=原价×折扣。"
+        }
+      },
+      {
+        "id": "mp3",
+        "type": "choice",
+        "difficulty": "中等",
+        "knowledgePoint": "圆的周长",
+        "question": "圆的半径扩大为原来的3倍，它的周长扩大为几倍？",
+        "options": [
+          "3倍",
+          "6倍",
+          "9倍",
+          "不变"
+        ],
+        "answer": 0,
+        "hint": {
+          "approach": "C=2πr，r变3倍，C也变3倍。",
+          "pitfall": "面积是r²关系会变9倍，周长只与r一次方成正比。",
+          "extension": "周长正比半径，面积正比半径平方。"
+        }
+      },
+      {
+        "id": "mp4",
+        "type": "choice",
+        "difficulty": "基础",
+        "knowledgePoint": "单位换算",
+        "question": "3米5厘米 = 多少厘米？",
+        "options": [
+          "35厘米",
+          "305厘米",
+          "350厘米",
+          "3005厘米"
+        ],
+        "answer": 1,
+        "hint": {
+          "approach": "3米=300厘米，加5厘米=305厘米。",
+          "pitfall": "1米=100厘米，别算成35。",
+          "extension": "长度单位进率是100。"
+        }
+      },
+      {
+        "id": "mp5",
+        "type": "choice",
+        "difficulty": "中等",
+        "knowledgePoint": "植树问题",
+        "question": "一条100米的小路一边植树，每隔5米一棵（两端都种），共种几棵？",
+        "options": [
+          "19棵",
+          "20棵",
+          "21棵",
+          "22棵"
+        ],
+        "answer": 2,
+        "hint": {
+          "approach": "段数=100/5=20，两端都种棵数=段数+1=21。",
+          "pitfall": "别漏掉两端中的一棵；棵数=段数+1（两端种）。",
+          "extension": "植树问题记住：两端种=段+1。"
+        }
+      },
+      {
+        "id": "mp6",
+        "type": "choice",
+        "difficulty": "基础",
+        "knowledgePoint": "平均数",
+        "question": "三个数 80、90、100 的平均数是？",
+        "options": [
+          "80",
+          "90",
+          "100",
+          "270"
+        ],
+        "answer": 1,
+        "hint": {
+          "approach": "总和270÷3=90。",
+          "pitfall": "平均数=总和÷个数，不是最大数。",
+          "extension": "平均数反映整体水平。"
+        }
+      }
+    ],
+    "英语": [
+      {
+        "id": "ep1",
+        "type": "choice",
+        "difficulty": "基础",
+        "knowledgePoint": "be动词",
+        "question": "I ___ a student.",
+        "options": [
+          "am",
+          "is",
+          "are",
+          "be"
+        ],
+        "answer": 0,
+        "hint": {
+          "approach": "I 后面用 am。",
+          "pitfall": "he/she用is，you/we/they用are。",
+          "extension": "be动词口诀：我用am你用are，is连着他她它。"
+        }
+      },
+      {
+        "id": "ep2",
+        "type": "choice",
+        "difficulty": "基础",
+        "knowledgePoint": "名词复数",
+        "question": "There are two ___ on the desk.",
+        "options": [
+          "book",
+          "books",
+          "bookes",
+          "book's"
+        ],
+        "answer": 1,
+        "hint": {
+          "approach": "two 后接复数 books。",
+          "pitfall": "一般直接加s；以s,x,ch,sh结尾加es。",
+          "extension": "名词复数规则要记牢。"
+        }
+      },
+      {
+        "id": "ep3",
+        "type": "choice",
+        "difficulty": "中等",
+        "knowledgePoint": "疑问词",
+        "question": "___ is your birthday?",
+        "options": [
+          "What",
+          "When",
+          "Where",
+          "Who"
+        ],
+        "answer": 1,
+        "hint": {
+          "approach": "问时间用 When。",
+          "pitfall": "What问事物，Where问地点，Who问人。",
+          "extension": "疑问词按'问什么'来选。"
+        }
+      },
+      {
+        "id": "ep4",
+        "type": "choice",
+        "difficulty": "基础",
+        "knowledgePoint": "颜色词汇",
+        "question": "“红色”的英文是？",
+        "options": [
+          "red",
+          "read",
+          "blue",
+          "green"
+        ],
+        "answer": 0,
+        "hint": {
+          "approach": "red 是红色。",
+          "pitfall": "read 是“读”，不要混淆拼写。",
+          "extension": "常见颜色：red/blue/green/yellow。"
+        }
+      },
+      {
+        "id": "ep5",
+        "type": "choice",
+        "difficulty": "中等",
+        "knowledgePoint": "一般现在时",
+        "question": "He ___ to school every day.",
+        "options": [
+          "go",
+          "goes",
+          "going",
+          "went"
+        ],
+        "answer": 1,
+        "hint": {
+          "approach": "第三人称单数用 goes。",
+          "pitfall": "he/she/it 作主语，动词加s/es。",
+          "extension": "一般现在时三单要变形。"
+        }
+      },
+      {
+        "id": "ep6",
+        "type": "choice",
+        "difficulty": "基础",
+        "knowledgePoint": "数字",
+        "question": "“12”的英文单词是？",
+        "options": [
+          "twelve",
+          "twenty",
+          "eleven",
+          "two"
+        ],
+        "answer": 0,
+        "hint": {
+          "approach": "twelve 是12。",
+          "pitfall": "twenty是20，注意区分。",
+          "extension": "1-12的拼写较特殊，需单独记。"
+        }
+      }
+    ]
+  }
+}
