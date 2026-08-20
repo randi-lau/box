@@ -1,0 +1,392 @@
+{
+  "questions": {
+    "语文": [
+      {
+        "id": "yj1",
+        "type": "choice",
+        "difficulty": "基础",
+        "knowledgePoint": "文言文实词",
+        "question": "“学而时习之，不亦说乎”中“说”的意思是？",
+        "options": [
+          "说话",
+          "高兴（通“悦”）",
+          "劝说",
+          "学说"
+        ],
+        "answer": 1,
+        "hint": {
+          "approach": "“说”通“悦”，愉快。",
+          "pitfall": "不要按现代“说话”理解。",
+          "extension": "文言通假字要重点记。"
+        }
+      },
+      {
+        "id": "yj2",
+        "type": "choice",
+        "difficulty": "中等",
+        "knowledgePoint": "文学常识",
+        "question": "《西游记》的作者是？",
+        "options": [
+          "罗贯中",
+          "吴承恩",
+          "施耐庵",
+          "曹雪芹"
+        ],
+        "answer": 1,
+        "hint": {
+          "approach": "吴承恩写《西游记》。",
+          "pitfall": "罗贯中《三国》、施耐庵《水浒》、曹雪芹《红楼》。",
+          "extension": "四大名著作者要对应。"
+        }
+      },
+      {
+        "id": "yj3",
+        "type": "choice",
+        "difficulty": "中等",
+        "knowledgePoint": "修辞手法",
+        "question": "“问君能有几多愁？恰似一江春水向东流”用了什么修辞？",
+        "options": [
+          "比喻",
+          "设问+比喻",
+          "夸张",
+          "对偶"
+        ],
+        "answer": 1,
+        "hint": {
+          "approach": "自问自答是设问，把愁比春水是比喻。",
+          "pitfall": "只看到比喻会漏掉设问。",
+          "extension": "修辞识别要全面。"
+        }
+      },
+      {
+        "id": "yj4",
+        "type": "choice",
+        "difficulty": "基础",
+        "knowledgePoint": "字词音形",
+        "question": "下列加点字注音正确的是？",
+        "options": [
+          "瞠(chēng)目",
+          "踉(niàng)跄",
+          "酗(xiōng)酒",
+          "字帖(tiē)"
+        ],
+        "answer": 0,
+        "hint": {
+          "approach": "瞠目chēng mù正确。",
+          "pitfall": "踉跄liàng；酗酒xù；字帖tiè。",
+          "extension": "易错字音要积累。"
+        }
+      },
+      {
+        "id": "yj5",
+        "type": "choice",
+        "difficulty": "中等",
+        "knowledgePoint": "病句辨析",
+        "question": "下列没有语病的是？",
+        "options": [
+          "能否刻苦是成功的关键",
+          "他那认真刻苦的精神值得学习",
+          "大约有50人左右参加",
+          "通过努力，使成绩提高"
+        ],
+        "answer": 1,
+        "hint": {
+          "approach": "第二句成分完整、无矛盾。",
+          "pitfall": "“能否”两面对一面；“大约”“左右”重复；“通过…使”缺主语。",
+          "extension": "病句类型：两面对一面、重复、缺主语。"
+        }
+      }
+    ],
+    "数学": [
+      {
+        "id": "mj1",
+        "type": "choice",
+        "difficulty": "中等",
+        "knowledgePoint": "一次函数",
+        "question": "一次函数 y=2x+1 的图象与y轴交点的坐标是？",
+        "options": [
+          "(0,1)",
+          "(1,0)",
+          "(0,2)",
+          "(2,0)"
+        ],
+        "answer": 0,
+        "hint": {
+          "approach": "令x=0，y=1，交点(0,1)。",
+          "pitfall": "与y轴交点x=0，不是y=0。",
+          "extension": "y=kx+b与y轴交于(0,b)。"
+        }
+      },
+      {
+        "id": "mj2",
+        "type": "choice",
+        "difficulty": "中等",
+        "knowledgePoint": "一元二次方程",
+        "question": "方程 x²-5x+6=0 的解是？",
+        "options": [
+          "x=2或3",
+          "x=1或6",
+          "x=-2或-3",
+          "x=5"
+        ],
+        "answer": 0,
+        "hint": {
+          "approach": "因式分解 (x-2)(x-3)=0，x=2或3。",
+          "pitfall": "别把常数项直接当解。",
+          "extension": "十字相乘是常用解法。"
+        }
+      },
+      {
+        "id": "mj3",
+        "type": "choice",
+        "difficulty": "基础",
+        "knowledgePoint": "概率",
+        "question": "抛一枚均匀硬币，正面朝上的概率是？",
+        "options": [
+          "1/4",
+          "1/2",
+          "1",
+          "0"
+        ],
+        "answer": 1,
+        "hint": {
+          "approach": "正反两种等可能，概率1/2。",
+          "pitfall": "不要想成1/4。",
+          "extension": "概率=有利情况/总情况。"
+        }
+      },
+      {
+        "id": "mj4",
+        "type": "choice",
+        "difficulty": "中等",
+        "knowledgePoint": "相似三角形",
+        "question": "两相似三角形相似比为2:3，则面积比为？",
+        "options": [
+          "2:3",
+          "4:9",
+          "3:2",
+          "√2:√3"
+        ],
+        "answer": 1,
+        "hint": {
+          "approach": "面积比=相似比的平方=4:9。",
+          "pitfall": "面积比是平方关系，不是线比。",
+          "extension": "相似图形面积比=相似比²。"
+        }
+      },
+      {
+        "id": "mj5",
+        "type": "choice",
+        "difficulty": "基础",
+        "knowledgePoint": "统计",
+        "question": "数据 2,4,4,5,6 的中位数是？",
+        "options": [
+          "2",
+          "4",
+          "5",
+          "6"
+        ],
+        "answer": 1,
+        "hint": {
+          "approach": "排序后中间的数=4。",
+          "pitfall": "中间是4不是平均数。",
+          "extension": "奇数个数据中位数是正中间那个。"
+        }
+      }
+    ],
+    "英语": [
+      {
+        "id": "ej1",
+        "type": "choice",
+        "difficulty": "中等",
+        "knowledgePoint": "时态",
+        "question": "Look! The bus ___.",
+        "options": [
+          "comes",
+          "is coming",
+          "came",
+          "will come"
+        ],
+        "answer": 1,
+        "hint": {
+          "approach": "Look! 提示用现在进行时 is coming。",
+          "pitfall": "看见now/look用进行时。",
+          "extension": "现在进行时：be+doing。"
+        }
+      },
+      {
+        "id": "ej2",
+        "type": "choice",
+        "difficulty": "中等",
+        "knowledgePoint": "比较级",
+        "question": "This book is ___ than that one.",
+        "options": [
+          "interesting",
+          "more interesting",
+          "most interesting",
+          "interestinger"
+        ],
+        "answer": 1,
+        "hint": {
+          "approach": "多音节词比较级用 more+原级。",
+          "pitfall": "interesting不是直接加er。",
+          "extension": "长词比较级用more/most。"
+        }
+      },
+      {
+        "id": "ej3",
+        "type": "choice",
+        "difficulty": "基础",
+        "knowledgePoint": "介词",
+        "question": "He is good ___ math.",
+        "options": [
+          "in",
+          "on",
+          "at",
+          "for"
+        ],
+        "answer": 2,
+        "hint": {
+          "approach": "be good at 擅长。",
+          "pitfall": "固定搭配 at。",
+          "extension": "介词搭配靠积累。"
+        }
+      },
+      {
+        "id": "ej4",
+        "type": "choice",
+        "difficulty": "中等",
+        "knowledgePoint": "被动语态",
+        "question": "The window ___ yesterday.",
+        "options": [
+          "broke",
+          "was broken",
+          "breaks",
+          "is breaking"
+        ],
+        "answer": 1,
+        "hint": {
+          "approach": "yesterday用过去时被动 was broken。",
+          "pitfall": "主语window不能主动break。",
+          "extension": "被动：be+过去分词。"
+        }
+      },
+      {
+        "id": "ej5",
+        "type": "choice",
+        "difficulty": "基础",
+        "knowledgePoint": "词汇",
+        "question": "“医院”的英文是？",
+        "options": [
+          "hospital",
+          "hotel",
+          "house",
+          "home"
+        ],
+        "answer": 0,
+        "hint": {
+          "approach": "hospital 医院。",
+          "pitfall": "hotel是旅馆。",
+          "extension": "常见场所词汇要记。"
+        }
+      }
+    ],
+    "物理": [
+      {
+        "id": "pj1",
+        "type": "choice",
+        "difficulty": "基础",
+        "knowledgePoint": "声现象",
+        "question": "声音不能在下列哪种环境中传播？",
+        "options": [
+          "固体",
+          "液体",
+          "气体",
+          "真空"
+        ],
+        "answer": 3,
+        "hint": {
+          "approach": "声音靠介质振动传播，真空无介质。",
+          "pitfall": "太空是真空，听不到声音。",
+          "extension": "声音传播需要介质。"
+        }
+      },
+      {
+        "id": "pj2",
+        "type": "choice",
+        "difficulty": "基础",
+        "knowledgePoint": "光的反射",
+        "question": "光反射时，反射角与入射角的关系是？",
+        "options": [
+          "反射角大于入射角",
+          "相等",
+          "反射角小于入射角",
+          "无关"
+        ],
+        "answer": 1,
+        "hint": {
+          "approach": "反射角=入射角。",
+          "pitfall": "别记反。",
+          "extension": "反射定律是光学基础。"
+        }
+      },
+      {
+        "id": "pj3",
+        "type": "choice",
+        "difficulty": "中等",
+        "knowledgePoint": "速度",
+        "question": "某物体3秒运动了60米，它的速度是？",
+        "options": [
+          "20 m/s",
+          "180 m/s",
+          "0.05 m/s",
+          "30 m/s"
+        ],
+        "answer": 0,
+        "hint": {
+          "approach": "v=s/t=60/3=20 m/s。",
+          "pitfall": "用除法不是乘法。",
+          "extension": "速度=路程÷时间。"
+        }
+      },
+      {
+        "id": "pj4",
+        "type": "choice",
+        "difficulty": "基础",
+        "knowledgePoint": "物态变化",
+        "question": "冰化成水属于哪种物态变化？",
+        "options": [
+          "凝固",
+          "熔化",
+          "汽化",
+          "升华"
+        ],
+        "answer": 1,
+        "hint": {
+          "approach": "固态变液态是熔化。",
+          "pitfall": "凝固是液态变固态。",
+          "extension": "熔化吸热、凝固放热。"
+        }
+      },
+      {
+        "id": "pj5",
+        "type": "choice",
+        "difficulty": "中等",
+        "knowledgePoint": "密度",
+        "question": "同体积的水和铁，下列说法正确的是？",
+        "options": [
+          "水重",
+          "铁重",
+          "一样重",
+          "无法判断"
+        ],
+        "answer": 1,
+        "hint": {
+          "approach": "铁的密度远大于水，同体积铁更重。",
+          "pitfall": "密度大则同体积质量大。",
+          "extension": "m=ρV。"
+        }
+      }
+    ]
+  }
+}
