@@ -1,0 +1,358 @@
+{
+  "questions": {
+    "语文": [
+      {
+        "id": "ys1",
+        "type": "choice",
+        "difficulty": "中等",
+        "knowledgePoint": "文言虚词",
+        "question": "“之”字在“禽兽之变诈几何哉”中用法是？",
+        "options": [
+          "代词",
+          "结构助词“的”",
+          "动词“去”",
+          "宾语前置标志"
+        ],
+        "answer": 1,
+        "hint": {
+          "approach": "“禽兽的欺骗手段”，之=的。",
+          "pitfall": "之有多种用法，要结合语境。",
+          "extension": "文言虚词需逐句判断。"
+        }
+      },
+      {
+        "id": "ys2",
+        "type": "choice",
+        "difficulty": "中等",
+        "knowledgePoint": "现代文阅读",
+        "question": "下列对“比喻”作用的分析，正确的是？",
+        "options": [
+          "使抽象变具体、深奥变浅显",
+          "增加字数",
+          "为了押韵",
+          "表示转折"
+        ],
+        "answer": 0,
+        "hint": {
+          "approach": "比喻化抽象为形象，帮助理解。",
+          "pitfall": "比喻目的不是凑字数。",
+          "extension": "赏析修辞要从表达效果入手。"
+        }
+      },
+      {
+        "id": "ys3",
+        "type": "choice",
+        "difficulty": "基础",
+        "knowledgePoint": "字音字形",
+        "question": "下列没有错别字的是？",
+        "options": [
+          "再接再厉",
+          "迫不急待",
+          "一愁莫展",
+          "穿流不息"
+        ],
+        "answer": 0,
+        "hint": {
+          "approach": "再接再厉正确。",
+          "pitfall": "及（急）待、筹（愁）莫展、川（穿）流不息均错。",
+          "extension": "成语字形易错字要记。"
+        }
+      }
+    ],
+    "数学": [
+      {
+        "id": "ms1",
+        "type": "choice",
+        "difficulty": "中等",
+        "knowledgePoint": "函数与导数",
+        "question": "f(x)=x² 在 x=1 处的导数是？",
+        "options": [
+          "1",
+          "2",
+          "0",
+          "3"
+        ],
+        "answer": 1,
+        "hint": {
+          "approach": "f′(x)=2x，代入x=1得2。",
+          "pitfall": "别把原函数值代入。",
+          "extension": "导数即切线斜率。"
+        }
+      },
+      {
+        "id": "ms2",
+        "type": "choice",
+        "difficulty": "中等",
+        "knowledgePoint": "三角函数",
+        "question": "sin 30° 的值是？",
+        "options": [
+          "1/2",
+          "√3/2",
+          "1",
+          "0"
+        ],
+        "answer": 0,
+        "hint": {
+          "approach": "sin30°=1/2。",
+          "pitfall": "cos30°才是√3/2。",
+          "extension": "特殊角三角函数值要背。"
+        }
+      },
+      {
+        "id": "ms3",
+        "type": "choice",
+        "difficulty": "基础",
+        "knowledgePoint": "数列",
+        "question": "等差数列 2,5,8,11… 的第10项是？",
+        "options": [
+          "29",
+          "30",
+          "28",
+          "31"
+        ],
+        "answer": 0,
+        "hint": {
+          "approach": "公差3，a10=2+9×3=29。",
+          "pitfall": "项数减一乘公差。",
+          "extension": "an=a1+(n-1)d。"
+        }
+      }
+    ],
+    "英语": [
+      {
+        "id": "es1",
+        "type": "choice",
+        "difficulty": "中等",
+        "knowledgePoint": "虚拟语气",
+        "question": "If I ___ you, I would go.",
+        "options": [
+          "am",
+          "was",
+          "were",
+          "be"
+        ],
+        "answer": 2,
+        "hint": {
+          "approach": "与现在事实相反的虚拟，be用were。",
+          "pitfall": "虚拟语气中不论人称都用were。",
+          "extension": "if虚拟三类型要区分。"
+        }
+      },
+      {
+        "id": "es2",
+        "type": "choice",
+        "difficulty": "中等",
+        "knowledgePoint": "非谓语",
+        "question": "___ from the hill, the town looks beautiful.",
+        "options": [
+          "Seen",
+          "Seeing",
+          "To see",
+          "See"
+        ],
+        "answer": 0,
+        "hint": {
+          "approach": "town与see是被动关系，用过去分词Seen。",
+          "pitfall": "主语是town不能主动看。",
+          "extension": "非谓语看主被动。"
+        }
+      },
+      {
+        "id": "es3",
+        "type": "choice",
+        "difficulty": "基础",
+        "knowledgePoint": "词汇",
+        "question": "“环境”的英文是？",
+        "options": [
+          "environment",
+          "experiment",
+          "experience",
+          "element"
+        ],
+        "answer": 0,
+        "hint": {
+          "approach": "environment 环境。",
+          "pitfall": "experiment实验、experience经验。",
+          "extension": "环保话题词汇常用。"
+        }
+      }
+    ],
+    "物理": [
+      {
+        "id": "ps1",
+        "type": "choice",
+        "difficulty": "中等",
+        "knowledgePoint": "牛顿第二定律",
+        "question": "质量2kg的物体受4N合力，加速度是？",
+        "options": [
+          "2 m/s²",
+          "8 m/s²",
+          "0.5 m/s²",
+          "6 m/s²"
+        ],
+        "answer": 0,
+        "hint": {
+          "approach": "a=F/m=4/2=2 m/s²。",
+          "pitfall": "用除法不是乘法。",
+          "extension": "牛顿第二定律 F=ma。"
+        }
+      },
+      {
+        "id": "ps2",
+        "type": "choice",
+        "difficulty": "中等",
+        "knowledgePoint": "机械能守恒",
+        "question": "不计空气阻力，物体自由下落过程中哪个量守恒？",
+        "options": [
+          "动能",
+          "重力势能",
+          "机械能",
+          "速度"
+        ],
+        "answer": 2,
+        "hint": {
+          "approach": "只有重力做功，机械能守恒。",
+          "pitfall": "动能和势能相互转化，总量不变。",
+          "extension": "机械能=动能+势能。"
+        }
+      },
+      {
+        "id": "ps3",
+        "type": "choice",
+        "difficulty": "基础",
+        "knowledgePoint": "电路",
+        "question": "两电阻串联，总电阻与分电阻关系是？",
+        "options": [
+          "相加",
+          "相乘",
+          "倒数和",
+          "相除"
+        ],
+        "answer": 0,
+        "hint": {
+          "approach": "串联 R=R1+R2。",
+          "pitfall": "并联才是倒数和。",
+          "extension": "串并联规律要分清。"
+        }
+      }
+    ],
+    "化学": [
+      {
+        "id": "cs1",
+        "type": "choice",
+        "difficulty": "基础",
+        "knowledgePoint": "物质分类",
+        "question": "下列属于纯净物的是？",
+        "options": [
+          "空气",
+          "蒸馏水",
+          "海水",
+          "牛奶"
+        ],
+        "answer": 1,
+        "hint": {
+          "approach": "蒸馏水是单一物质H₂O。",
+          "pitfall": "空气、海水、牛奶都是混合物。",
+          "extension": "纯净物由一种物质组成。"
+        }
+      },
+      {
+        "id": "cs2",
+        "type": "choice",
+        "difficulty": "中等",
+        "knowledgePoint": "化学方程式",
+        "question": "2H₂+O₂=2H₂O 中，H₂与O₂的分子个数比是？",
+        "options": [
+          "1:1",
+          "2:1",
+          "1:2",
+          "2:2"
+        ],
+        "answer": 1,
+        "hint": {
+          "approach": "系数为2:1。",
+          "pitfall": "看系数不是看原子数。",
+          "extension": "方程式系数即个数比。"
+        }
+      },
+      {
+        "id": "cs3",
+        "type": "choice",
+        "difficulty": "基础",
+        "knowledgePoint": "酸碱指示",
+        "question": "石蕊试液遇酸变什么色？",
+        "options": [
+          "红",
+          "蓝",
+          "不变",
+          "紫"
+        ],
+        "answer": 0,
+        "hint": {
+          "approach": "石蕊遇酸红、遇碱蓝。",
+          "pitfall": "酚酞才是遇碱红。",
+          "extension": "常见指示剂变色要记。"
+        }
+      }
+    ],
+    "生物": [
+      {
+        "id": "bs1",
+        "type": "choice",
+        "difficulty": "基础",
+        "knowledgePoint": "细胞结构",
+        "question": "植物细胞特有的结构是？",
+        "options": [
+          "细胞膜",
+          "细胞壁",
+          "线粒体",
+          "细胞核"
+        ],
+        "answer": 1,
+        "hint": {
+          "approach": "细胞壁、叶绿体、液泡是植物细胞特有。",
+          "pitfall": "细胞膜、线粒体、细胞核动植物都有。",
+          "extension": "动植物细胞结构对比要清。"
+        }
+      },
+      {
+        "id": "bs2",
+        "type": "choice",
+        "difficulty": "中等",
+        "knowledgePoint": "光合作用",
+        "question": "光合作用主要在细胞的哪个结构进行？",
+        "options": [
+          "线粒体",
+          "叶绿体",
+          "细胞核",
+          "液泡"
+        ],
+        "answer": 1,
+        "hint": {
+          "approach": "叶绿体是光合作用场所。",
+          "pitfall": "线粒体是呼吸作用的。",
+          "extension": "叶绿体+光能→有机物+氧气。"
+        }
+      },
+      {
+        "id": "bs3",
+        "type": "choice",
+        "difficulty": "基础",
+        "knowledgePoint": "遗传",
+        "question": "控制生物性状的基本单位是？",
+        "options": [
+          "蛋白质",
+          "基因",
+          "细胞",
+          "染色体"
+        ],
+        "answer": 1,
+        "hint": {
+          "approach": "基因是有遗传效应的DNA片段。",
+          "pitfall": "染色体由DNA和蛋白质组成。",
+          "extension": "基因控制性状。"
+        }
+      }
+    ]
+  }
+}
