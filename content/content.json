@@ -1,0 +1,762 @@
+{
+  "version": 2461273,
+  "generatedAt": "2026-08-20",
+  "stages": {
+    "小学": {
+      "file": "q-primary.json",
+      "version": 2461273
+    },
+    "初中": {
+      "file": "q-junior.json",
+      "version": 2461273
+    },
+    "高中": {
+      "file": "q-senior.json",
+      "version": 2461273
+    }
+  },
+  "retire": {
+    "小学": [],
+    "初中": [],
+    "高中": []
+  },
+  "news": [
+    {
+      "id": "cn_a409e26631",
+      "category": "要闻",
+      "title": "秦皇岛市海港区一底商发生火灾，造成8人死亡，3人受伤",
+      "readMin": 1,
+      "summary": "2026年8月20日3时40分左右，秦皇岛市海港区一底商发生火灾，消防、应急、卫健、公安等部门第一时间赶赴现场开展应急救援。4 时 30 分，现场明火被扑灭。事故造成 8 人死亡，3人送医救治。伤者目前生命体征平稳。",
+      "paras": [
+        "2026年8月20日3时40分左右，秦皇岛市海港区一底商发生火灾，消防、应急、卫健、公安等部门第一时间赶赴现场开展应急救援。4 时 30 分，现场明火被扑灭。事故造成 8 人死亡，3人送医救治。伤者目前生命体征平稳。"
+      ],
+      "source": "中国新闻网（每日自动抓取）"
+    },
+    {
+      "id": "cn_a23c9be06c",
+      "category": "要闻",
+      "title": "【“筑基”高质量·系列评论之十一】真好！这共建共治共享的融融日常",
+      "readMin": 1,
+      "summary": "【“筑基”高质量·系列评论之十一】",
+      "paras": [
+        "【“筑基”高质量·系列评论之十一】"
+      ],
+      "source": "中国新闻网（每日自动抓取）"
+    },
+    {
+      "id": "cn_79df156c1f",
+      "category": "要闻",
+      "title": "千万元买到“墙景房”，索赔遭拒怎么办？",
+      "readMin": 1,
+      "summary": "千万元买到“墙景房”，索赔遭拒怎么办？(以案说法)",
+      "paras": [
+        "千万元买到“墙景房”，索赔遭拒怎么办？(以案说法)"
+      ],
+      "source": "中国新闻网（每日自动抓取）"
+    },
+    {
+      "id": "cn_98c25a55a5",
+      "category": "要闻",
+      "title": "暑期孩子去哪？多地文化场馆创新开展托管服务",
+      "readMin": 1,
+      "summary": "原标题：多地探索破解青少年暑期“无人管、无处去”难题",
+      "paras": [
+        "原标题：多地探索破解青少年暑期“无人管、无处去”难题"
+      ],
+      "source": "中国新闻网（每日自动抓取）"
+    },
+    {
+      "id": "cn_7ed1bf71f3",
+      "category": "要闻",
+      "title": "金观平：全力释放科技赋能产业的潜力",
+      "readMin": 1,
+      "summary": "推动科技创新和产业创新深度融合，是以高水平科技自立自强引领发展新质生产力的关键。二者的融合，既是培育新质生产力的内在要求，也是支撑新质生产力发展的重要根基。",
+      "paras": [
+        "推动科技创新和产业创新深度融合，是以高水平科技自立自强引领发展新质生产力的关键。二者的融合，既是培育新质生产力的内在要求，也是支撑新质生产力发展的重要根基。"
+      ],
+      "source": "中国新闻网（每日自动抓取）"
+    },
+    {
+      "id": "cn_2b795ab42a",
+      "category": "要闻",
+      "title": "莫让AI客服给消费者“添堵”",
+      "readMin": 1,
+      "summary": "莫让AI客服给消费者“添堵”(金台锐评)",
+      "paras": [
+        "莫让AI客服给消费者“添堵”(金台锐评)"
+      ],
+      "source": "中国新闻网（每日自动抓取）"
+    },
+    {
+      "id": "cn_1830d468d3",
+      "category": "要闻",
+      "title": "以融合放大创新动能",
+      "readMin": 1,
+      "summary": "让科技创新和产业创新紧紧嵌合，让新质生产力与生产生活丝丝入扣，创新能量就会源源不断释放发展增量",
+      "paras": [
+        "让科技创新和产业创新紧紧嵌合，让新质生产力与生产生活丝丝入扣，创新能量就会源源不断释放发展增量"
+      ],
+      "source": "中国新闻网（每日自动抓取）"
+    },
+    {
+      "id": "cn_9aab852f0f",
+      "category": "要闻",
+      "title": "情绪消费，“新”在哪里",
+      "readMin": 1,
+      "summary": "情绪消费，“新”在哪里(读者点题·共同关注)",
+      "paras": [
+        "情绪消费，“新”在哪里(读者点题·共同关注)"
+      ],
+      "source": "中国新闻网（每日自动抓取）"
+    },
+    {
+      "id": "cn_7cdb35dd71",
+      "category": "要闻",
+      "title": "覆盖超八成国土面积，国家水网长什么样？",
+      "readMin": 1,
+      "summary": "“‘六张网’建设刷新‘进度条’”系列报道之一",
+      "paras": [
+        "“‘六张网’建设刷新‘进度条’”系列报道之一"
+      ],
+      "source": "中国新闻网（每日自动抓取）"
+    },
+    {
+      "id": "cn_494193dfdc",
+      "category": "要闻",
+      "title": "凭员工口令可购买低折扣机票？警惕这种引流陷阱",
+      "readMin": 1,
+      "summary": "暑期出行游玩，很多人看中民航运输的高效便捷。不过，机票价格并非一成不变，而是受市场供需、时间、航线、航空公司等多方面因素影响，不断动态调整。旅客也常会在各个渠道和平台间反复比价，希望买到性价比最高的机票。",
+      "paras": [
+        "暑期出行游玩，很多人看中民航运输的高效便捷。不过，机票价格并非一成不变，而是受市场供需、时间、航线、航空公司等多方面因素影响，不断动态调整。旅客也常会在各个渠道和平台间反复比价，希望买到性价比最高的机票。"
+      ],
+      "source": "中国新闻网（每日自动抓取）"
+    },
+    {
+      "id": "cn_fe424c243f",
+      "category": "要闻",
+      "title": "事关外卖骑手等劳动权益保障，工会工作“十五五”规划发布！",
+      "readMin": 1,
+      "summary": "今天(20日)，全国总工会发布了《中国工运事业和工会工作“十五五”规划》，《规划》聚焦推动高质量发展，在动员激励广大职工群众建功立业、创新创造上作出了一系列重要部署。",
+      "paras": [
+        "今天(20日)，全国总工会发布了《中国工运事业和工会工作“十五五”规划》，《规划》聚焦推动高质量发展，在动员激励广大职工群众建功立业、创新创造上作出了一系列重要部署。"
+      ],
+      "source": "中国新闻网（每日自动抓取）"
+    },
+    {
+      "id": "cn_d1af4c52b2",
+      "category": "要闻",
+      "title": "南海热带低压将给华南带来明显降雨 台风“沙德尔”逐渐增强",
+      "readMin": 1,
+      "summary": "中国天气网讯 据中央气象台消息，南海热带低压今天(8月20日)早晨5点钟的中心位于海南省文昌市偏东方向约65公里的南海西北部海面上，就是北纬19.6度，东经111.4度，外围最大风力有7级(15米/秒)，中心最低气压为998百帕。",
+      "paras": [
+        "中国天气网讯 据中央气象台消息，南海热带低压今天(8月20日)早晨5点钟的中心位于海南省文昌市偏东方向约65公里的南海西北部海面上，就是北纬19.6度，东经111.4度，外围最大风力有7级(15米/秒)，中心最低气压为998百帕。"
+      ],
+      "source": "中国新闻网（每日自动抓取）"
+    }
+  ],
+  "knowledge": [
+    {
+      "id": "rk35",
+      "category": "科学探索",
+      "title": "云是怎么变成雨的",
+      "readMin": 3,
+      "summary": "水汽遇冷凝成小水滴，越聚越多变重，就落下来成雨。",
+      "paras": [
+        "太阳晒热水面，水汽升上天空。",
+        "高空冷，水汽凝在小尘埃上成云。",
+        "水滴变大撑不住，便纷纷落下。"
+      ],
+      "source": "学习台知识库"
+    },
+    {
+      "id": "rk36",
+      "category": "健康生活",
+      "title": "牙齿为什么要刷两次",
+      "readMin": 2,
+      "summary": "早晚刷牙能清除食物残渣和细菌，保护牙齿不得蛀牙。",
+      "paras": [
+        "夜里唾液少，细菌容易繁殖。",
+        "用含氟牙膏、每次刷够三分钟。",
+        "饭后漱口、少吃糖，牙齿更坚固。"
+      ],
+      "source": "学习台知识库"
+    },
+    {
+      "id": "rk01",
+      "category": "科学探索",
+      "title": "为什么海水是咸的",
+      "readMin": 3,
+      "summary": "河水把岩石里的盐分带进大海，海水被太阳晒蒸发，盐却留了下来。",
+      "paras": [
+        "雨水流过岩石土壤，溶解少量矿物质和盐类，汇入江河，最后流入大海。",
+        "太阳把海面部分水变成水蒸气升上天空，盐却留在海里，千万年积累变咸。",
+        "死海几乎只进不出，盐度特别高，人躺上去都不容易沉下去。"
+      ],
+      "source": "学习台知识库"
+    },
+    {
+      "id": "rk02",
+      "category": "科技前沿",
+      "title": "二维码里藏了多少信息",
+      "readMin": 3,
+      "summary": "黑白小方块用排列组合记下网址文字，手机一扫就懂。",
+      "paras": [
+        "二维码由很多小方格组成，黑格白格代表0和1，不同位置存数据、纠错和定位。",
+        "三个角的大方块是'定位标'，手机靠它们摆正方向，斜着扫也能识别。",
+        "因为加了纠错码，弄脏一小块也还能扫出来。"
+      ],
+      "source": "学习台知识库"
+    },
+    {
+      "id": "rk03",
+      "category": "自然万物",
+      "title": "树叶秋天为什么会变黄",
+      "readMin": 3,
+      "summary": "秋天日照变短，叶子里的叶绿素减少，原本被盖住的颜色就显出来。",
+      "paras": [
+        "夏天叶子绿，是因为大量叶绿素在工作。",
+        "秋天天气转凉，树木回收养分，叶绿素分解，叶黄素、花青素露面。",
+        "枫叶变红，是花青素在低温里增多造成的。"
+      ],
+      "source": "学习台知识库"
+    },
+    {
+      "id": "rk04",
+      "category": "科学探索",
+      "title": "闪电是怎么发生的",
+      "readMin": 3,
+      "summary": "云里正负电荷分开，放电时就出现耀眼的闪电和雷声。",
+      "paras": [
+        "云中冰晶碰撞，使顶部带正电、底部带负电。",
+        "电荷差大到一定程度，空气被击穿，形成闪电。",
+        "光比声快，所以先见闪电后闻雷声。"
+      ],
+      "source": "学习台知识库"
+    },
+    {
+      "id": "rk05",
+      "category": "健康生活",
+      "title": "洗手为什么能防病",
+      "readMin": 2,
+      "summary": "用洗手液认真洗手，能冲走手上的细菌和病毒。",
+      "paras": [
+        "手每天摸很多东西，容易沾上病菌。",
+        "七步洗手法、搓够20秒，才洗得干净。",
+        "饭前便后、外出回家都要洗手。"
+      ],
+      "source": "学习台知识库"
+    },
+    {
+      "id": "rk06",
+      "category": "社会百科",
+      "title": "人民币上的风景",
+      "readMin": 3,
+      "summary": "纸币背面印着祖国名山大川，是移动的国家名片。",
+      "paras": [
+        "一元背面是杭州西湖的三潭印月。",
+        "一百元背面是人民大会堂，庄严又气派。",
+        "看着这些风景，也能认识祖国的大好河山。"
+      ],
+      "source": "学习台知识库"
+    },
+    {
+      "id": "rk07",
+      "category": "趣味常识",
+      "title": "先有鸡还是先有蛋",
+      "readMin": 3,
+      "summary": "从演化看，是'先有蛋'——鸟类由恐龙演化，蛋早存在亿万年。",
+      "paras": [
+        "恐龙时代就有蛋，比鸡出现早得多。",
+        "现代鸡由远古鸟类逐渐演化而来。",
+        "所以严格说，会下'鸡蛋'的鸡之前，蛋早就有了。"
+      ],
+      "source": "学习台知识库"
+    },
+    {
+      "id": "rk08",
+      "category": "科学探索",
+      "title": "黑洞是什么",
+      "readMin": 3,
+      "summary": "黑洞引力极强，连光都逃不掉，是宇宙中最神秘的天体之一。",
+      "paras": [
+        "当大质量恒星燃料耗尽、塌缩，可能形成黑洞。",
+        "它的边界叫'事件视界'，进去就回不来。",
+        "科学家用间接方法'拍'到了黑洞的影子。"
+      ],
+      "source": "学习台知识库"
+    }
+  ],
+  "newsTips": [
+    "读完新闻试着用自己的话讲一遍，记忆更牢。",
+    "遇到不懂的词，查一查词典，会有新发现。",
+    "关注新闻里的数字，它们常常说明问题的关键。",
+    "把新闻和课本知识连起来想，理解会更透。",
+    "每天读一点，慢慢就成了关心世界的小大人。",
+    "可以和家长聊聊今天的新闻，听听不同看法。",
+    "新闻里的科学原理，正是你课本要学的内容。",
+    "看到感人的故事，想想自己能做什么。",
+    "对比不同报道，学会独立思考。",
+    "记录下喜欢的句子，写作文时能用上。",
+    "新闻里的地名，去地图上找一找。",
+    "坚持每天阅读，积少成多收获大。"
+  ],
+  "knowledgeTips": [
+    "把新常识和课本知识连起来想，理解更透。",
+    "遇到有趣的现象，动手做小实验验证一下。",
+    "画一张思维导图，把零散知识串起来。",
+    "给家人讲一遍，能讲明白才是真懂了。",
+    "生活中的为什么，都可以变成学习的小课题。",
+    "记笔记时用自己的话，比抄写更有效。",
+    "同一个知识点，换个角度问自己一遍。",
+    "把常识编成小口诀，记得又快又牢。",
+    "观察身边的事物，科学知识就在其中。",
+    "每天学一点，知识像滚雪球越滚越大。",
+    "不懂就问，问题是学习的起点。",
+    "把相似的知识归类，不容易混淆。"
+  ],
+  "homeWelcome": [
+    "新版远程内容已上线，今天的内容每天都不一样哦！",
+    "欢迎回来！读新闻、学常识、练题目，每天进步一点点。",
+    "今天也要元气满满地学习呀～",
+    "试试'每日训练'，系统会帮你挑出适合的题目。",
+    "做完题记得看解析，错过的题下次就不怕啦。",
+    "生活实践里学做一道菜，也是了不起的本领！"
+  ],
+  "cooking": {
+    "recipes": [
+      {
+        "id": "c_rec13",
+        "emoji": "🥔",
+        "title": "香煎土豆丝饼",
+        "category": "主食",
+        "level": "★★",
+        "timeMin": 18,
+        "ingredients": [
+          "土豆 2 个",
+          "胡萝卜 半个",
+          "盐 适量",
+          "油 适量"
+        ],
+        "steps": [
+          "土豆胡萝卜擦细丝；",
+          "加盐拌匀稍腌出水；",
+          "热油小火摊成小饼；",
+          "两面煎金黄即可。"
+        ],
+        "tip": "丝要细，容易熟透且更脆。"
+      },
+      {
+        "id": "c_rec14",
+        "emoji": "🍞",
+        "title": "牛奶吐司布丁",
+        "category": "甜点",
+        "level": "★",
+        "timeMin": 25,
+        "ingredients": [
+          "吐司 2 片",
+          "鸡蛋 1 个",
+          "牛奶 1 杯",
+          "糖 1 勺"
+        ],
+        "steps": [
+          "吐司切小块铺碗底；",
+          "鸡蛋牛奶糖搅匀淋上；",
+          "静置10分钟入味；",
+          "烤箱180度烤20分钟。"
+        ],
+        "tip": "没有烤箱可上锅蒸，口感更嫩。"
+      },
+      {
+        "id": "c_rec15",
+        "emoji": "🥬",
+        "title": "清炒小白菜",
+        "category": "家常菜",
+        "level": "★",
+        "timeMin": 8,
+        "ingredients": [
+          "小白菜 1 把",
+          "蒜 2 瓣",
+          "盐 适量",
+          "油 适量"
+        ],
+        "steps": [
+          "小白菜洗净切段；",
+          "热油爆香蒜；",
+          "下菜大火快炒；",
+          "加盐翻匀出锅。"
+        ],
+        "tip": "大火快炒保脆嫩，出水就不好吃了。"
+      },
+      {
+        "id": "c_rec16",
+        "emoji": "🍎",
+        "title": "烤苹果片",
+        "category": "甜点",
+        "level": "★",
+        "timeMin": 40,
+        "ingredients": [
+          "苹果 2 个",
+          "肉桂粉 少许（可选）"
+        ],
+        "steps": [
+          "苹果切薄片；",
+          "平铺烤盘；",
+          "100度烤30-40分钟至干脆；",
+          "凉后密封保存。"
+        ],
+        "tip": "薄而均匀才脆，厚了会韧。"
+      },
+      {
+        "id": "c_rec1",
+        "emoji": "🍅",
+        "title": "西红柿炒鸡蛋",
+        "category": "家常菜",
+        "level": "★",
+        "timeMin": 10,
+        "ingredients": [
+          "西红柿 2 个",
+          "鸡蛋 2 个",
+          "小葱 少许",
+          "盐 适量",
+          "食用油 适量"
+        ],
+        "steps": [
+          "鸡蛋打散加少许盐搅匀；",
+          "西红柿去蒂切块；",
+          "热锅少油，倒入蛋液炒至凝固盛出；",
+          "锅留底油下西红柿，炒出红汁；",
+          "倒入鸡蛋翻匀，撒葱花出锅。"
+        ],
+        "tip": "鸡蛋嫩炒、西红柿炒出汁，味道最香。"
+      },
+      {
+        "id": "c_rec2",
+        "emoji": "🥗",
+        "title": "缤纷水果沙拉",
+        "category": "免开火",
+        "level": "★",
+        "timeMin": 8,
+        "ingredients": [
+          "苹果 1 个",
+          "香蕉 1 根",
+          "草莓 6 颗",
+          "酸奶 2 勺"
+        ],
+        "steps": [
+          "水果用清水洗净；",
+          "苹果、香蕉切小块；",
+          "草莓对半切开；",
+          "淋上酸奶轻轻拌匀即可。"
+        ],
+        "tip": "现做现吃，放久苹果容易氧化变黄。"
+      },
+      {
+        "id": "c_rec3",
+        "emoji": "🍜",
+        "title": "元气煮面条",
+        "category": "主食",
+        "level": "★",
+        "timeMin": 12,
+        "ingredients": [
+          "面条 1 把",
+          "小青菜 1 把",
+          "鸡蛋 1 个",
+          "生抽 1 勺"
+        ],
+        "steps": [
+          "锅里水烧开，下直面；",
+          "青菜洗净后放入同煮；",
+          "另起小锅少油煎一个荷包蛋；",
+          "面熟捞起，加生抽，摆上煎蛋。"
+        ],
+        "tip": "水要多一些，面才不会黏成一团。"
+      },
+      {
+        "id": "c_rec4",
+        "emoji": "🍳",
+        "title": "香煎太阳蛋",
+        "category": "早餐",
+        "level": "★",
+        "timeMin": 5,
+        "ingredients": [
+          "鸡蛋 1 个",
+          "食用油 几滴",
+          "盐 少许"
+        ],
+        "steps": [
+          "平底锅预热，倒几滴油；",
+          "磕入鸡蛋，转小火；",
+          "蛋白凝固、边缘微焦时撒盐；",
+          "用铲子轻推出锅。"
+        ],
+        "tip": "一定要小火，蛋黄才嫩、不易糊。"
+      }
+    ],
+    "tips": [
+      {
+        "id": "c_tip2",
+        "emoji": "🔪",
+        "title": "刀具安全",
+        "text": "用刀时专心看手，刀尖不对人；用完立刻洗净归位，不要泡在水里。"
+      },
+      {
+        "id": "c_tip3",
+        "emoji": "🥩",
+        "title": "生熟分开",
+        "text": "生肉和熟食要用不同的砧板与餐具，避免细菌交叉污染。"
+      },
+      {
+        "id": "c_tip4",
+        "emoji": "🔥",
+        "title": "火候判断",
+        "text": "油面冒少许青烟再下菜；煎炒用小火慢来，不容易糊锅。"
+      }
+    ]
+  },
+  "cspLessons": [
+    {
+      "id": 4,
+      "title": "二分查找",
+      "desc": "在有序序列中快速定位",
+      "sections": [
+        {
+          "type": "text",
+          "content": "二分查找要求序列有序。每次取中间元素比较，缩小一半查找范围，时间复杂度O(log n)。"
+        },
+        {
+          "type": "code",
+          "code": "#include <iostream>\nusing namespace std;\n\n// 在 a[0..n-1] 中找 x，找到返回下标，否则返回 -1\nint binarySearch(int a[], int n, int x) {\n    int L = 0, R = n - 1;\n    while (L <= R) {\n        int mid = (L + R) / 2;\n        if (a[mid] == x) return mid;\n        if (a[mid] < x) L = mid + 1;\n        else R = mid - 1;\n    }\n    return -1;\n}"
+        },
+        {
+          "type": "explain",
+          "title": "二分要点",
+          "items": [
+            "前提：序列必须有序",
+            "循环中 L<=R，mid=(L+R)/2",
+            "根据比较结果移动 L 或 R",
+            "常用于答案具有单调性的'二分答案'题",
+            "注意边界，避免死循环"
+          ]
+        },
+        {
+          "type": "tip",
+          "content": "二分答案：当'最大/最小'类问题满足单调性时，把答案当作枚举对象二分，用 check() 判断是否可行。"
+        }
+      ],
+      "exercise": {
+        "prompt": "输入有序数组和x，输出x的下标，不存在输出-1。",
+        "template": "#include <iostream>\nusing namespace std;\n\nint main() {\n    int n, x; cin >> n >> x;\n    int a[1005];\n    // 二分查找\n\n    return 0;\n}",
+        "expected": ""
+      }
+    },
+    {
+      "id": 5,
+      "title": "递归入门",
+      "desc": "函数自己调用自己",
+      "sections": [
+        {
+          "type": "text",
+          "content": "递归是函数直接或间接调用自身。写递归要有两个要素：递归边界（何时停）和递归关系（怎么缩小问题）。"
+        },
+        {
+          "type": "code",
+          "code": "#include <iostream>\nusing namespace std;\n\nint factorial(int n) {\n    if (n <= 1) return 1;        // 递归边界\n    return n * factorial(n - 1); // 递归关系\n}\n\nint main() {\n    int n; cin >> n;\n    cout << factorial(n) << endl;\n    return 0;\n}"
+        },
+        {
+          "type": "explain",
+          "title": "递归三要素",
+          "items": [
+            "递归边界：最小的、能直接返回的情况",
+            "递归关系：把大问题拆成小问题",
+            "相信递归：假设小规模已正确，写出当前层",
+            "太深会栈溢出，注意数据范围",
+            "很多搜索、分治都靠递归"
+          ]
+        },
+        {
+          "type": "tip",
+          "content": "画递归树帮助理解：每个节点是一个调用，叶子是边界，从叶子往根回代得到答案。"
+        }
+      ],
+      "exercise": {
+        "prompt": "用递归求斐波那契数列第n项（f(1)=1,f(2)=1,f(n)=f(n-1)+f(n-2)）。",
+        "template": "#include <iostream>\nusing namespace std;\n\nint fib(int n) {\n    // 递归实现\n\n}\n\nint main() {\n    int n; cin >> n;\n    cout << fib(n) << endl;\n    return 0;\n}",
+        "expected": ""
+      }
+    },
+    {
+      "id": 6,
+      "title": "DFS 深度优先搜索",
+      "desc": "一条路走到黑，再回头",
+      "sections": [
+        {
+          "type": "text",
+          "content": "DFS 像走迷宫：沿着一条路一直走，走不通就退回上一个岔路口换条路。常用递归实现，是排列组合、连通性、路径类题目的主力。"
+        },
+        {
+          "type": "code",
+          "code": "#include <iostream>\nusing namespace std;\n\nint n, ans = 0;\nint a[25];\n\nvoid dfs(int i, int sum, int S) {\n    if (i == n) { if (sum == S) ans++; return; }\n    dfs(i + 1, sum, S);          // 不选\n    dfs(i + 1, sum + a[i], S);   // 选\n}\n\nint main() {\n    int S; cin >> n >> S;\n    for (int i = 0; i < n; i++) cin >> a[i];\n    dfs(0, 0, S);\n    cout << ans << endl;\n}"
+        },
+        {
+          "type": "explain",
+          "title": "DFS 要点",
+          "items": [
+            "用递归参数表示'当前状态'",
+            "到边界时判断/统计",
+            "选与不选（或枚举每种选择）两种分支",
+            "必要时用 vis 数组标记访问",
+            "复杂度爆炸时注意剪枝"
+          ]
+        },
+        {
+          "type": "tip",
+          "content": "子集和问题：n<=20用DFS枚举，n较大且S较小用01背包DP。先判断数据范围再选方法。"
+        }
+      ],
+      "exercise": {
+        "prompt": "n个物品选若干使难度和恰好为S，输出方案数对1e9+7取模（n<=20）。",
+        "template": "#include <iostream>\nusing namespace std;\n\nint n, S, ans = 0;\nint a[25];\n\nvoid dfs(int i, int sum) {\n    // 补全 DFS\n\n}\n\nint main() {\n    cin >> n >> S;\n    for (int i = 0; i < n; i++) cin >> a[i];\n    dfs(0, 0);\n    cout << ans << endl;\n}",
+        "expected": ""
+      }
+    },
+    {
+      "id": 7,
+      "title": "BFS 广度优先搜索",
+      "desc": "层层扩散求最短路",
+      "sections": [
+        {
+          "type": "text",
+          "content": "BFS 从起点一层层向外扩展，第一次到达某点时的步数就是最短步数，适合迷宫最短路、状态最少步数等问题。"
+        },
+        {
+          "type": "code",
+          "code": "#include <iostream>\n#include <queue>\nusing namespace std;\n\nchar maze[105][105];\nint dist[105][105];\nint dx[] = {0, 0, 1, -1};\nint dy[] = {1, -1, 0, 0};\n\nint main() {\n    int n, m; cin >> n >> m;\n    for (int i = 1; i <= n; i++)\n        for (int j = 1; j <= m; j++) { cin >> maze[i][j]; dist[i][j] = -1; }\n    queue<int> qx, qy;\n    qx.push(1); qy.push(1); dist[1][1] = 0;\n    while (!qx.empty()) {\n        int x = qx.front(); qx.pop();\n        int y = qy.front(); qy.pop();\n        for (int k = 0; k < 4; k++) {\n            int nx = x + dx[k], ny = y + dy[k];\n            if (nx >= 1 && nx <= n && ny >= 1 && ny <= m\n                && maze[nx][ny] == '.' && dist[nx][ny] == -1) {\n                dist[nx][ny] = dist[x][y] + 1;\n                qx.push(nx); qy.push(ny);\n            }\n        }\n    }\n    cout << dist[n][m] << endl;\n}"
+        },
+        {
+          "type": "explain",
+          "title": "BFS 要点",
+          "items": [
+            "用队列保存待访问点",
+            "入队时标记 visited，避免重复",
+            "方向数组 dx/dy 表示上下左右",
+            "第一次到达即最短，可立即返回",
+            "无权图最短路的标配"
+          ]
+        },
+        {
+          "type": "tip",
+          "content": "BFS 求最短路是 CSP-J 高频考点。变体：多起点 BFS、带传送门、双向 BFS。核心就是队列+访问标记+方向数组。"
+        }
+      ],
+      "exercise": {
+        "prompt": "给定迷宫（.可走 #墙），求左上到右下最少步数，不可达输出-1。",
+        "template": "#include <iostream>\n#include <queue>\nusing namespace std;\n\n// 用上面的 BFS 框架补全主函数读入与输出\n\nint main() {\n    return 0;\n}",
+        "expected": ""
+      }
+    }
+  ],
+  "cspProblems": [
+    {
+      "title": "津津的储蓄计划",
+      "desc": "模拟 · 难度：简单",
+      "difficulty": "easy",
+      "problemText": "津津每月月初得300元，每月有预算开销，剩余存进妈妈处（年底加倍返还）。若某月不够开销则当月退出。求最早退出月份，或年底总钱数。",
+      "inputDesc": "12行，每行当月预算。",
+      "outputDesc": "若中途不够输出负月份；否则输出年底总金额。",
+      "sampleInput": "290\n230\n...（略）",
+      "sampleOutput": "0 或 -月份",
+      "hint": {
+        "approach": "逐月模拟：余额=上月+300-开销，若<0记录月份退出；月底剩≥100且是整百则存100。",
+        "pitfall": "存钱只在余额≥100且为100的倍数时存；年底返还=存款*2+余额。",
+        "extension": "经典模拟题，细心按规则走即可。"
+      },
+      "template": "#include <iostream>\nusing namespace std;\n\nint main() {\n    int save = 0, left = 0;\n    for (int m = 1; m <= 12; m++) {\n        int budget; cin >> budget;\n        // 模拟每月\n\n    }\n    return 0;\n}",
+      "solution": "#include <iostream>\nusing namespace std;\n\nint main() {\n    int save = 0, left = 0;\n    for (int m = 1; m <= 12; m++) {\n        int budget; cin >> budget;\n        int money = left + 300 - budget;\n        if (money < 0) { cout << -m << endl; return 0; }\n        if (money >= 100) { save += money / 100 * 100; money %= 100; }\n        left = money;\n    }\n    cout << left + save * 2 << endl;\n    return 0;\n}"
+    },
+    {
+      "title": "纪念品分组",
+      "desc": "贪心/排序 · 难度：中等",
+      "difficulty": "medium",
+      "problemText": "n个纪念品，每件价格w[i]。每两组装一袋，两袋总价不能超过上限W，求最少袋数。",
+      "inputDesc": "第一行W和n；第二行n个w[i]。",
+      "outputDesc": "一行最少袋数。",
+      "sampleInput": "5 9\n1 2 3 4 5 6 7 8 9",
+      "sampleOutput": "5",
+      "hint": {
+        "approach": "排序后双指针：最贵与最便宜配对，能装一袋就装，否则最贵的单独一袋。",
+        "pitfall": "配对失败（超W）时，最贵的必单独占一袋；配对成功则两头各消耗一个。",
+        "extension": "典型贪心+双指针，排序是关键。"
+      },
+      "template": "#include <iostream>\n#include <algorithm>\nusing namespace std;\n\nint main() {\n    int W, n, w[30005];\n    cin >> W >> n;\n    for (int i = 0; i < n; i++) cin >> w[i];\n    // 排序 + 双指针分组\n\n    return 0;\n}",
+      "solution": "#include <iostream>\n#include <algorithm>\nusing namespace std;\n\nint main() {\n    int W, n, w[30005];\n    cin >> W >> n;\n    for (int i = 0; i < n; i++) cin >> w[i];\n    sort(w, w + n);\n    int L = 0, R = n - 1, ans = 0;\n    while (L <= R) {\n        if (w[L] + w[R] <= W) { L++; R--; }\n        else R--;\n        ans++;\n    }\n    cout << ans << endl;\n    return 0;\n}"
+    },
+    {
+      "title": "买铅笔（CSP-J 2017 T1）",
+      "desc": "模拟题 · 难度：入门",
+      "difficulty": "easy",
+      "problemText": "P老师需要买n支铅笔。商店有3种包装，不同包装内数量和价格可能不同，必须整包买。求最少花费。",
+      "inputDesc": "第一行正整数n。接下来三行，每行两个正整数：一种包装的铅笔数量和价格。",
+      "outputDesc": "一行一个整数，最少花费的钱数。",
+      "sampleInput": "57\n2 2\n50 30\n30 27",
+      "sampleOutput": "54",
+      "hint": {
+        "approach": "对每种包装，计算需要几包：向上取整 (n+cnt-1)/cnt，再乘单价。三种取最小。",
+        "pitfall": "注意向上取整！n=57每包2支要29包。用整数 (n+cnt-1)/cnt，别用浮点 ceil 以免精度问题。",
+        "extension": "模拟题关键是读懂题意、注意边界、整数运算做除法。"
+      },
+      "template": "#include <iostream>\n#include <algorithm>\nusing namespace std;\n\nint main() {\n    int n; cin >> n;\n    int ans = 1e9;\n    for (int i = 0; i < 3; i++) {\n        int cnt, price; cin >> cnt >> price;\n        int bags = (n + cnt - 1) / cnt;\n        ans = min(ans, bags * price);\n    }\n    cout << ans << endl;\n    return 0;\n}",
+      "solution": "#include <iostream>\n#include <algorithm>\nusing namespace std;\n\nint main() {\n    int n; cin >> n;\n    int ans = 1e9;\n    for (int i = 0; i < 3; i++) {\n        int cnt, price; cin >> cnt >> price;\n        int bags = (n + cnt - 1) / cnt;\n        ans = min(ans, bags * price);\n    }\n    cout << ans << endl;\n    return 0;\n}"
+    },
+    {
+      "title": "优秀的拆分（CSP-J 2020 T1）",
+      "desc": "位运算/贪心 · 难度：简单",
+      "difficulty": "easy",
+      "problemText": "若正整数能拆成若干个不同的2的正整数次幂之和，则称优秀拆分。给定n，问优秀拆分方案数。",
+      "inputDesc": "一行一个正整数n。",
+      "outputDesc": "一行一个整数，方案数；不能拆分输出0。",
+      "sampleInput": "6",
+      "sampleOutput": "1",
+      "hint": {
+        "approach": "2的正整数次幂不含2^0=1。n为奇数无法拆分输出0；n为偶数方案唯一（二进制去掉最低位）。",
+        "pitfall": "注意是2的正整数次幂，不含1！所以奇数直接输出0。",
+        "extension": "考察二进制理解，二进制表示唯一，去掉最低位1即唯一方案。"
+      },
+      "template": "#include <iostream>\nusing namespace std;\n\nint main() {\n    int n; cin >> n;\n    // 奇数输出 0，偶数输出 1\n\n    return 0;\n}",
+      "solution": "#include <iostream>\nusing namespace std;\n\nint main() {\n    int n; cin >> n;\n    if (n % 2 == 1) cout << 0 << endl;\n    else cout << 1 << endl;\n    return 0;\n}"
+    },
+    {
+      "title": "题库统计（子集和）",
+      "desc": "枚举/模拟 · 难度：中等",
+      "difficulty": "medium",
+      "problemText": "n道题，每题难度a[i]。选若干题使难度和恰好为S，求方案数对1e9+7取模。",
+      "inputDesc": "第一行n和S；第二行n个正整数a[i]。",
+      "outputDesc": "一行方案数（取模）。",
+      "sampleInput": "5 10\n1 2 3 4 5",
+      "sampleOutput": "3",
+      "hint": {
+        "approach": "n<=20用DFS选或不选枚举；n大S小用01背包DP：dp[j]+=dp[j-a[i]]。",
+        "pitfall": "DFS注意n范围，>20会超时；DP每次更新后取模，且01背包要逆序更新。",
+        "extension": "经典子集和问题，先判断数据范围选方法。"
+      },
+      "template": "#include <iostream>\nusing namespace std;\n\nint n, S, a[25], ans = 0;\nvoid dfs(int i, int sum) {\n    // 补全\n}\nint main() {\n    cin >> n >> S;\n    for (int i = 0; i < n; i++) cin >> a[i];\n    dfs(0, 0);\n    cout << ans << endl;\n}",
+      "solution": "#include <iostream>\nusing namespace std;\n\nint n, S, a[25], ans = 0;\nvoid dfs(int i, int sum) {\n    if (i == n) { if (sum == S) ans++; return; }\n    dfs(i + 1, sum);\n    dfs(i + 1, sum + a[i]);\n}\nint main() {\n    cin >> n >> S;\n    for (int i = 0; i < n; i++) cin >> a[i];\n    dfs(0, 0);\n    cout << ans << endl;\n}"
+    },
+    {
+      "title": "迷宫最短路（BFS）",
+      "desc": "广度优先搜索 · 难度：中等",
+      "difficulty": "medium",
+      "problemText": "n×m迷宫，.可走#墙，求左上到右下最少步数，不可达输出-1。",
+      "inputDesc": "第一行n,m；接下来n行每行m个字符。",
+      "outputDesc": "一行最少步数，不可达-1。",
+      "sampleInput": "5 5\n.....\n.###.\n.....\n.###.\n.....",
+      "sampleOutput": "8",
+      "hint": {
+        "approach": "BFS从(1,1)搜索，队列+dist数组记录最短距离，第一次到达即最短。",
+        "pitfall": "注意坐标越界；visited在入队时标记；检查字符是.不是0。",
+        "extension": "BFS求无权图最短路是高频考点，核心是队列+访问标记+方向数组。"
+      },
+      "template": "#include <iostream>\n#include <queue>\nusing namespace std;\n\nchar maze[105][105];\nint dist[105][105];\nint dx[] = {0, 0, 1, -1}, dy[] = {1, -1, 0, 0};\nint main() {\n    int n, m; cin >> n >> m;\n    // 读入并 BFS\n\n    return 0;\n}",
+      "solution": "#include <iostream>\n#include <queue>\nusing namespace std;\n\nchar maze[105][105];\nint dist[105][105];\nint dx[] = {0, 0, 1, -1}, dy[] = {1, -1, 0, 0};\nint main() {\n    int n, m; cin >> n >> m;\n    for (int i = 1; i <= n; i++)\n        for (int j = 1; j <= m; j++) { cin >> maze[i][j]; dist[i][j] = -1; }\n    queue<int> qx, qy;\n    qx.push(1); qy.push(1); dist[1][1] = 0;\n    while (!qx.empty()) {\n        int x = qx.front(); qx.pop();\n        int y = qy.front(); qy.pop();\n        for (int k = 0; k < 4; k++) {\n            int nx = x + dx[k], ny = y + dy[k];\n            if (nx >= 1 && nx <= n && ny >= 1 && ny <= m\n                && maze[nx][ny] == '.' && dist[nx][ny] == -1) {\n                dist[nx][ny] = dist[x][y] + 1;\n                qx.push(nx); qy.push(ny);\n            }\n        }\n    }\n    cout << dist[n][m] << endl;\n}"
+    }
+  ]
+}
